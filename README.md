@@ -52,4 +52,4 @@
 <br>
 
 <!-- Ola animada en el pie de página -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=140&section=footer" />
