@@ -1,9 +1,3 @@
-<!-- Banner de texto animado -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=⚡+Embedded+Systems+%26+IoT+Engineer;📡+Network+%26+IT+Support+Specialist;🏆+NASA+Space+Apps+Global+Nominee;💻+Hardware%2C+Firmware+%26+PCB+Design" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- Título con Emoji animado de saludo -->
 <h1 align="center">
@@ -42,14 +36,6 @@
 </p>
 
 <br>
-
-### 📊 Mis Estadísticas de GitHub
-
-<!-- Tarjetas dinámicas que se actualizan automáticamente -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight&hide_border=true&background=0D1117" height="160" alt="Streak" />
-</div>
 
 <br>
 
