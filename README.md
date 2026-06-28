@@ -1,10 +1,17 @@
-<!-- Título con Emoji animado de saludo -->
+<!-- Título y saludo -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> ¡Hola, soy Cesar!
 </h1>
 
+<!-- Texto animado (Typing Effect) -->
 <p align="center">
-  <em>Soy un Ingeniero en Computación especializado en conectar el mundo físico con el digital. Me apasiona el diseño de hardware, los sistemas embebidos, la infraestructura de redes y la resolución de problemas técnicos complejos en campo.</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Ingeniero+de+Hardware+y+Firmware;Especialista+en+IoT+y+Edge+AI;Diseñador+de+PCBs+y+Sistemas;Entusiasta+de+Arch+Linux+%F0%9F%90%A7" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Soy un Ingeniero especializado en conectar el mundo físico con el digital. Me apasiona el diseño de hardware, los sistemas embebidos, la infraestructura de redes y la resolución de problemas técnicos complejos en campo.</em>
 </p>
 
 <br>
@@ -13,30 +20,36 @@
 - 🔭 **Actualmente trabajando en:** Implementación de Edge AI (YOLOv5/YOLOv8) en hardware de bajo consumo (ESP32-S3, Raspberry Pi).
 - 🏆 **Logro destacado:** Global Nominee en el *NASA Space Apps Challenge* (Top 10% de más de 11,000 proyectos a nivel mundial).
 - ⚡ **Mi superpoder:** Integrar todo el ciclo de vida del producto: desde rutear placas y configurar el pinout de cámaras, hasta la fabricación de carcasas con impresión 3D (Bambu Lab).
-- 💬 **Pregúntame sobre:** ESP32, Edge AI, Diseño de PCB (KiCad), ESP-NOW, e Impresión 3D industrial (DFM y cálculo de costos de oportunidad).
+- 💬 **Pregúntame sobre:** ESP32, Edge AI, Diseño de PCB (KiCad),Diseño 3D (Freecad, Sketchup), Arch Linux, ESP-NOW.
 
 <br>
+
 ### 🛠️ Tech Stack & Herramientas
 
-
-<!-- Iconos de habilidades  -->
+<!-- Iconos de habilidades (Incluyendo web, apps, entornos y distribuciones) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,arch,js,firebase,supabase,git,github,bash,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,arch,mint,js,html,css,react,firebase,supabase,git,github,bash,arduino,raspberrypi,flutter,vscode,androidstudio" />
   </a>
 </p>
 
-<!-- Badges adicionales para Hardware/IA/Redes/SO -->
+<!-- Badges adicionales para Hardware/IA/Redes/SO/Navegadores -->
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/KiCad-FFFFFF?style=for-the-badge&logo=kicad&logoColor=2C4373" />
+  <img src="https://img.shields.io/badge/FreeCAD-2D9CDB?style=for-the-badge&logo=freecad&logoColor=white" />
   <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP--Claw-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO_Vision-00FFFF?style=for-the-badge&logo=dependabot&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
 </p>
+
 <br>
 
 <br>
@@ -49,9 +62,9 @@
 
 | 💳 **Terminal NFC (Bare-metal)** | 🖨️ **Integración 3D para Robótica** |
 | :--- | :--- |
-| Sistema en C/C++ usando I2C para módulos **PN532** y sincronización directa con **Firebase Realtime Database** para validación de pagos. | Prototipado y mantenimiento (DFM) usando impresoras **Bambu Lab A1 Mini**, aplicando modelos de negocio con costos de oportunidad. |
+| Sistema en C/C++ usando I2C para módulos **PN532** y sincronización directa con **Firebase Realtime Database** para validación de pagos. | Prototipado y mantenimiento  usando impresoras , aplicando modelos de negocio con costos de oportunidad. |
 
 <br>
 
-<!-- Ola animada en el pie de página -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=140&section=footer" />
+<!-- Ola animada en el pie de página con texto integrado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=140&section=footer&text=Hardware%20is%20Hard,%20but%20Fun!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
