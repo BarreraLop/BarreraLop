@@ -3,12 +3,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> ¡Hola, soy Cesar!
 </h1>
 
-<!-- Texto animado (Typing Effect) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Ingeniero+de+Hardware+y+Firmware;Especialista+en+IoT+y+Edge+AI;Diseñador+de+PCBs+y+Sistemas;Entusiasta+de+Arch+Linux+%F0%9F%90%A7" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <em>Soy un Ingeniero especializado en conectar el mundo físico con el digital. Me apasiona el diseño de hardware, los sistemas embebidos, la infraestructura de redes y la resolución de problemas técnicos complejos en campo.</em>
